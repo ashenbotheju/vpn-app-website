@@ -45,3 +45,7 @@
     padding-top: 0.5em;
   }
 }
+
+.custom-rounded{
+  border-radius: 16px;
+}
