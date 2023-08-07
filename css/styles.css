@@ -68,3 +68,8 @@
 .jumbo-box-color{
   background-color: #c2c6e4;
 }
+
+.color-footer{
+  background: linear-gradient(300deg, #0081C9, #ACB1D6, #8294C4);
+  animation: gradient-animation 18s ease infinite;
+}
