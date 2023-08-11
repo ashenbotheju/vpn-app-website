@@ -61,7 +61,7 @@
   margin-bottom: 75px;
 }
 
-#reviews p{
+#reviews p, .heading-paragraph{
   font-size: 18px;
 }
 
@@ -72,4 +72,17 @@
 .color-footer{
   background: linear-gradient(300deg, #0081C9, #ACB1D6, #8294C4);
   animation: gradient-animation 18s ease infinite;
+}
+
+svg.tp-asset-star {
+  fill: #007CFF;
+  background: #fff;
+}
+
+svg.tp-asset-half-star .half-full {
+  fill: #007CFF;
+}
+
+svg.tp-asset-half-star .half-empty {
+  fill: #2c9df9;
 }
