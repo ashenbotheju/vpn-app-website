@@ -114,3 +114,15 @@ svg.tp-asset-half-star .half-empty {
   height: 100%;
 }
 
+.bg-color{
+  background-color: #FCFCFC;
+}
+
+marks{
+  text-decoration: underline;
+  text-decoration-color: rgba(255,204,0,.6);
+  text-decoration-thickness: 0.5em;
+  text-decoration-skip-ink: none;
+  text-underline-offset: -0.25em;
+}
+
