@@ -126,3 +126,7 @@ marks{
   text-underline-offset: -0.25em;
 }
 
+.link-style{
+  font-weight: bold;
+  color: #464759;
+}
