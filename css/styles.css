@@ -130,3 +130,28 @@ marks{
   font-weight: bold;
   color: #464759;
 }
+
+
+
+@media (max-width: 767px) {
+  .box-area {
+    border-bottom: 1px solid rgba(34, 46, 58, 0.1);
+  }
+}  
+
+@media (min-width: 768px)  {
+  
+  .border-type-1 {
+    border-right: 1px solid rgba(34, 46, 58, 0.1);
+    border-bottom: 1px solid rgba(34, 46, 58, 0.1);
+  }
+  
+  .border-type-2 {
+    border-bottom: 1px solid rgba(34, 46, 58, 0.1);
+  }
+  
+  .border-type-3 {
+    border-right: 1px solid rgba(34, 46, 58, 0.1);
+  }
+
+}
